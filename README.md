@@ -1,5 +1,2 @@
-GLNP
-1.
-2.
-3.
-4.
+# writtingRecoginition
+This is a handwritten numeral recoginiting project
