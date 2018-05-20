@@ -12,10 +12,10 @@ GLNMDA  is a project developed in java language. Before introducing this projec
 
 2. Folder list:
 2.1. dataset-------------------The data set used in the project is placed in this folder.
-  2.1.1. dss.mat---------------Disease similarity network,It is a Matlab format data and can be load by LoadDataUtils.java
+  2.1.1. dss.mat---------------Disease similarity network,It is a Matlab format data 
   2.1.2. dssname.txt-----------Recorded the all diseases name.
   2.1.3. interaction.mat-------Recordeed the all disease-miRNA associations.
-  2.1.4. mfs.mat---------------miRNA similarity network,It is a Matlab format data and can be load by LoadDataUtils.java
+  2.1.4. mfs.mat---------------miRNA similarity network,It is a Matlab format data 
   2.1.5. mfsname.mat-----------Recorded the all miRNAs name.
 2.2. output--------------------The prediction result produced by our method.
   2.2.1. add_prediction.txt----The prediction result based on known disease-miRNA associations.
