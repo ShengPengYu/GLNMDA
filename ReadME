@@ -17,9 +17,9 @@ GLNMDA  is a project developed in java language. Before introducing this projec
   2.1.3. interaction.mat-------Recordeed the all disease-miRNA associations.
   2.1.4. mfs.mat---------------miRNA similarity network,It is a Matlab format data 
   2.1.5. mfsname.mat-----------Recorded the all miRNAs name.
-2.2. output--------------------The prediction result produced by our method.
-  2.2.1. add_prediction.txt----The prediction result based on known disease-miRNA associations.
-  2.2.2. new_-rediction.txt----The prediction result based on removing all known disease-miRNA associations.
+2.2. output--------------------The prediction results produced by our method.
+  2.2.1. add_prediction.txt----The prediction results based on known disease-miRNA associations.
+  2.2.2. new_-rediction.txt----The results based on removing all known disease-miRNA associations.
 2.3. utils---------------------A tool set 
   2.3.1. GUIutils.java---------Showing the matrix by GUI.
   2.3.2. LoadDataUtils.java----Loading data to memory.
