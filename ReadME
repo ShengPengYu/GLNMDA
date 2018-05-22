@@ -23,3 +23,5 @@ GLNMDA  is a project developed in java language. Before introducing this projec
 2.3. utils---------------------A tool set 
   2.3.1. GUIutils.java---------Showing the matrix by GUI.
   2.3.2. LoadDataUtils.java----Loading data to memory.
+2.4 clusterONE-----------------A library for clustering.
+  2.4.1 cluster_one-1.0.jar----A jar package for clustering.
