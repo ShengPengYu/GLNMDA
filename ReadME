@@ -1,5 +1,5 @@
 # GLNMDA
-GLNMDA  is a project developed in java language. Before introducing this project, I want to explain the following points:
+A Novel Method for MiRNA-Disease Association Prediction based on Global Linear Neighborhoods
 
 1.Method Description:
 we propose a novel method for miRNA-disease association prediction based on global linear neighborhoods (GLNMDA).Specifically, our 
