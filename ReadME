@@ -37,3 +37,6 @@ verified miRNA-disease associations.
 To run our method, simply open the "job.java" script in java programming environment or other java IDE tools (e.g. Eclipse) and press 
 "Run" button. Another option is to run our script using the command line format by two steps: (1)javac Job.java (2) java Job 
 
+
+6. Contact:
+For any questions regarding our work, please feel free to contact us: sdnuysp@163.com
