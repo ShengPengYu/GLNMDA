@@ -1,7 +1,7 @@
 ## GLNMDA
 A Novel Method for MiRNA-Disease Association Prediction based on Global Linear Neighborhoods
 
-**1.Method Description:**
+1.Method Description:
 we propose a novel method for miRNA-disease association prediction based on global linear neighborhoods (GLNMDA).Specifically, our 
 method obtains a new miRNA/disease similarity matrix by linearly reconstructing each miRNA/disease according to the known experimentally 
 verified miRNA-disease associations. 
@@ -34,7 +34,7 @@ verified miRNA-disease associations.
   4.4.1 cluster_one-1.0.jar----A jar package for clustering.
   
 5. Usage:
-To run our method, simply open the "job.java" script in java programming environment or other java IDE tools (e.g. Eclipse) and press 
+To run our method, simply open the "Job.java" script in java programming environment or other java IDE tools (e.g. Eclipse) and press 
 "Run" button. Another option is to run our script using the command line format by two steps: (1)javac Job.java (2) java Job 
 
 
